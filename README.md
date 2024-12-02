@@ -45,10 +45,12 @@ Developed by: RegisterNumber:
 */24005701
 
 **RTL LOGIC FOR FLIPFLOPS**
-![Uploading 387118438-867efd20-a6ea-444f-bbb9-273572515e58.png…]()
+ ![387118438-867efd20-a6ea-444f-bbb9-273572515e58](https://github.com/user-attachments/assets/da150e89-0f7e-4ef4-aee9-9e7ffe16eba6)
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Uploading 387118529-4c93f763-ca59-4ce2-9403-58b5599befc3.png…]()
+![387118529-4c93f763-ca59-4ce2-9403-58b5599befc3](https://github.com/user-attachments/assets/22be3e52-a1ad-4f60-b291-3f0ea28a5f1c)
+
 
 **RESULTS**
 
